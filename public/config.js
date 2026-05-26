@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "An onchain perps Dex on solana and evm chains, providing deeper liquidity across all the markets and facility of crosschain swap, limit orders and prediction markets.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Markets,Trading,Leaderboard,Vaults,Rewards,Points,Portfolio",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Leaderboard,Rewards,Points,Portfolio",
   "VITE_CUSTOM_MENUS": "Home, https://app.gensuki.xyz; Swap, https://app.gensuki.xyz/swap",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
